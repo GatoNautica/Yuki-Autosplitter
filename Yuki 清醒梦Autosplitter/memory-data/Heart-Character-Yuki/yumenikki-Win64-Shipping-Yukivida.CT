@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Yukivida"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>25548EFB7A8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Yukivida2"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2606D556078</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Yukivida result"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"yumenikki-Win64-Shipping.exe"+06F38068</Address>
+      <Offsets>
+        <Offset>338</Offset>
+        <Offset>28</Offset>
+        <Offset>160</Offset>
+        <Offset>8</Offset>
+        <Offset>28</Offset>
+        <Offset>50</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
